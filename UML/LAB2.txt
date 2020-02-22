@@ -1,0 +1,31 @@
+A
+==
+
+1. Name any 3 objects that are part of this diagram.
+
+Ans:  1.DB Account
+      2.Connection
+      3.Statement
+
+2. Which is the external data source from where the data is being retrieved?
+
+Ans: 
+
+3. If a class called “Statement” is coded considering this sequence diagram, what
+operation must be part of the “Statement” class?
+
+Ans: executeQuery()
+
+4. Does this sequence diagram model error conditions? If yes, what are they? If no,
+what could be the error conditions and how would you model them?
+
+Ans:
+
+B
+==
+
+1. The operation getAvailableReports() belongs to the class FinancialAnalyst.
+TRUE /FALSE
+2. What methods would be implemented by the class ReportingSystem ?
+3. What is the return value of the method getAvailableReports ?
+4. Who is responsible for calling the operation determineAvailableReports() ?
